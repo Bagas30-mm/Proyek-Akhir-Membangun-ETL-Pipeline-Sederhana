@@ -1,4 +1,4 @@
-## 📦 Proyek Akhir: Implementasi Pipeline ETL Sederhana
+## 📦 Proyek Akhir: Implementasi Pipeline ETL Sederhana - Bagas Rizky Ramadhan
 
 Dalam proyek ini, peserta mengembangkan sebuah **pipeline ETL (Extract, Transform, Load)** untuk mengotomatisasi pengolahan data produk fashion. Proses dimulai dari pengambilan data dari situs [Fashion Studio Dicoding](https://fashion-studio.dicoding.dev/), dilanjutkan dengan transformasi data agar siap digunakan untuk analisis, dan berakhir dengan penyimpanan data ke tiga media berbeda:
 
