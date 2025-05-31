@@ -80,7 +80,7 @@ Cakupan pengujian mencapai **95%**, mencakup seluruh pipeline (extract, transfor
 
 ### Instalasi Awal
 ```bash
-git clone https://github.com/maxwellmassie/submission-prada.git
+git clone https://github.com/Bagas30-mm/Proyek-Akhir-Membangun-ETL-Pipeline-Sederhana.git
 python -m venv .env
 .env\Scripts\activate  # Windows
 pip install -r requirements.txt
