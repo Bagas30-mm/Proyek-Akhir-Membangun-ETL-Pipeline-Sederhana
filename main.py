@@ -1,4 +1,4 @@
-# Import Library dan Modular Code
+# Import Library 
 import pandas as pd
 from utils.extract import scrape_fashion_products
 from utils.transform import clean_and_transform
